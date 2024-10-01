@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|c:\\users\\nykt3r\\desktop\\mvc\\firstmvc\\firstmvc\\views\\vistaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\vistaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|c:\\users\\nykt3r\\desktop\\mvc\\firstmvc\\firstmvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|c:\\users\\nykt3r\\desktop\\mvc\\firstmvc\\firstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|c:\\users\\nykt3r\\desktop\\mvc\\firstmvc\\firstmvc\\controllers\\controladorproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336A1F75-4629-4059-95AB-7019CB9DCBDF}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\controllers\\controladorproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControladorProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Controllers\\ControladorProducto.cs",
+              "RelativeDocumentMoniker": "FirstMVC\\Controllers\\ControladorProducto.cs",
+              "ToolTip": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Controllers\\ControladorProducto.cs",
+              "RelativeToolTip": "FirstMVC\\Controllers\\ControladorProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:13:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Views\\VistaProducto.cs",
+              "RelativeDocumentMoniker": "FirstMVC\\Views\\VistaProducto.cs",
+              "ToolTip": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Views\\VistaProducto.cs",
+              "RelativeToolTip": "FirstMVC\\Views\\VistaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:06:59.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "FirstMVC\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Models\\Producto.cs",
+              "RelativeToolTip": "FirstMVC\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:06:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Nykt3r\\Desktop\\MVC\\FirstMVC\\FirstMVC\\Program.cs",
+              "RelativeToolTip": "FirstMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:04:49.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

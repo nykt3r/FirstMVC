@@ -1,0 +1,14 @@
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\bin\Debug\net8.0\FirstMVC.exe
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\bin\Debug\net8.0\FirstMVC.deps.json
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\bin\Debug\net8.0\FirstMVC.runtimeconfig.json
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\bin\Debug\net8.0\FirstMVC.dll
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\bin\Debug\net8.0\FirstMVC.pdb
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.AssemblyInfoInputs.cache
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.AssemblyInfo.cs
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.dll
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\refint\FirstMVC.dll
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.pdb
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\FirstMVC.genruntimeconfig.cache
+C:\Users\Nykt3r\Desktop\MVC\FirstMVC\FirstMVC\obj\Debug\net8.0\ref\FirstMVC.dll
